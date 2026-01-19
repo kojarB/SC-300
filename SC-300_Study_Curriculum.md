@@ -5,7 +5,7 @@ SC-300: Microsoft Identity and Access Administrator – Study Curriculum
 ### [1. Implement and manage user identities](1-Implement-and-Manage-User-Identities/)
 
 #### [1.1 Configure and manage a Microsoft Entra tenant](1-Implement-and-Manage-User-Identities/1.1-Configure-and-Manage-Microsoft-Entra-Tenant/)
-- [1.1.1 Configure and manage built-in and custom Microsoft Entra roles](1.1.1%20Configure%20and%20Manage%20Built-in%20and%20Custom%20Microsoft%20Entra%20Roles.md)
+- [1.1.1 Configure and manage built-in and custom Microsoft Entra roles](1.1.1-Configure-and-Manage-Built-in-and-Custom%20Microsoft-Entra-Roles.md)
 - [1.1.2 Recommend when to use administrative units](1-Implement-and-Manage-User-Identities/1.1-Configure-and-Manage-Microsoft-Entra-Tenant/1.1.2-Recommend-When-to-Use-Administrative-Units.md)
 - [1.1.3 Configure and manage administrative units](1-Implement-and-Manage-User-Identities/1.1-Configure-and-Manage-Microsoft-Entra-Tenant/1.1.3-Configure-and-Manage-Administrative-Units.md)
 - [1.1.4 Evaluate effective permissions for Microsoft Entra roles](1-Implement-and-Manage-User-Identities/1.1-Configure-and-Manage-Microsoft-Entra-Tenant/1.1.4-Evaluate-Effective-Permissions-for-Microsoft-Entra-Roles.md)
